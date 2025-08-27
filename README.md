@@ -1,4 +1,4 @@
 # AstralRoyale v2 (W.I.P)
-A Clash Royale Server written in Python
+A Clash Royale Server written in C#
 
-### Want to check out AstralRoyale v2? [Click here!](https://github.com/fdz6/AstralRoyale)
+### Want to check out AstralRoyale v1? [Click here!](https://github.com/fdz6/AstralRoyale)
