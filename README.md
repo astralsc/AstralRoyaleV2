@@ -4,6 +4,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Build Status](https://action-badges.now.sh/retroroyale/ClashRoyale)
 
+# A December 14, 2017 .NET Core Clash Royale Server (2.1.8)
+
 ##### Need help? Join our [Discord](https://discord.gg/mUredE6CTU)
 #### Want to help us? Fork this project and you could try add stuff!
 
