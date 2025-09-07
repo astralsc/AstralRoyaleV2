@@ -5,7 +5,7 @@
 ![Build Status](https://action-badges.now.sh/retroroyale/ClashRoyale)
 
 # A December 14, 2017 .NET Core Clash Royale Server (2.1.8)
-This project is forked from the [zzVvertigo CR server.](https://github.com/zzVertigo/ClashRoyale.Server)
+This project is forked from the [zzVertigo CR project.](https://github.com/zzVertigo/ClashRoyale.Server)
 
 ##### Need help? Join our [Discord](https://discord.gg/mUredE6CTU)
 #### Want to help us? Fork this project and you could try add stuff!
