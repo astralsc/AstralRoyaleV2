@@ -1,6 +1,6 @@
 # <p align="center">AstralRoyale V2 (W.I.P)</p>
 
-# A .NET 2017 Clash Royale server (2.0.2) created by @astralsc
+# A .NET Clash Royale server created by @astralsc
 
 ##### Need help? Join our [Discord](https://discord.gg/mUredE6CTU)
 #### Want to help us? Fork this project and you could try add stuff!
